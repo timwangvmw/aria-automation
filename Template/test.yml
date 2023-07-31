@@ -1,0 +1,7 @@
+formatVersion: 1
+inputs: {}
+resources:
+  Cloud_K8S_Namespace_1:
+    type: Cloud.K8S.Namespace
+    properties:
+      name: test
